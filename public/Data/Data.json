@@ -1,0 +1,114 @@
+[
+    {
+        "concert_id": 1,
+        "artist": "The Weeknd",
+        "date": "2024-11-01",
+        "location": "Stadium A",
+        "ticket_price": 120.00,
+        "available_tickets": 1500
+    },
+    {
+        "concert_id": 2,
+        "artist": "Taylor Swift",
+        "date": "2024-12-05",
+        "location": "Arena B",
+        "ticket_price": 150.00,
+        "available_tickets": 2000
+    },
+    {
+        "concert_id": 3,
+        "artist": "Ed Sheeran",
+        "date": "2024-12-10",
+        "location": "Stadium C",
+        "ticket_price": 100.00,
+        "available_tickets": 3000
+    },
+    {
+        "concert_id": 4,
+        "artist": "Ariana Grande",
+        "date": "2024-11-15",
+        "location": "Stadium D",
+        "ticket_price": 130.00,
+        "available_tickets": 1800
+    },
+    {
+        "concert_id": 5,
+        "artist": "BTS",
+        "date": "2024-11-25",
+        "location": "Stadium E",
+        "ticket_price": 250.00,
+        "available_tickets": 5000
+    },
+    {
+        "concert_id": 6,
+        "artist": "Justin Timberlake",
+        "date": "2024-12-12",
+        "location": "Arena F",
+        "ticket_price": 160.00,
+        "available_tickets": 2200
+    },
+    {
+        "concert_id": 7,
+        "artist": "Cash Atlantic",
+        "date": "2024-12-20",
+        "location": "Stadium G",
+        "ticket_price": 110.00,
+        "available_tickets": 1700
+    },
+    {
+        "concert_id": 8,
+        "artist": "CAS",
+        "date": "2024-12-30",
+        "location": "Arena H",
+        "ticket_price": 140.00,
+        "available_tickets": 1600
+    }
+    {
+        "concert_id": 9,
+        "artist": "Billie Eilish",
+        "date": "2024-11-30",
+        "location": "Stadium I",
+        "ticket_price": 140.00,
+        "available_tickets": 2100
+    },
+    {
+        "concert_id": 10,
+        "artist": "Drake",
+        "date": "2024-12-02",
+        "location": "Arena J",
+        "ticket_price": 200.00,
+        "available_tickets": 3000
+    },
+    {
+        "concert_id": 11,
+        "artist": "Dua Lipa",
+        "date": "2024-12-15",
+        "location": "Stadium K",
+        "ticket_price": 160.00,
+        "available_tickets": 2500
+    },
+    {
+        "concert_id": 12,
+        "artist": "Maroon 5",
+        "date": "2024-12-22",
+        "location": "Arena L",
+        "ticket_price": 130.00,
+        "available_tickets": 2200
+    },
+    {
+        "concert_id": 13,
+        "artist": "Halsey",
+        "date": "2024-12-28",
+        "location": "Stadium M",
+        "ticket_price": 150.00,
+        "available_tickets": 1800
+    },
+    {
+        "concert_id": 14,
+        "artist": "Coldplay",
+        "date": "2025-01-05",
+        "location": "Stadium N",
+        "ticket_price": 300.00,
+        "available_tickets": 4000
+    }
+]
