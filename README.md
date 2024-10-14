@@ -1,11 +1,5 @@
 <<<<<<< HEAD
-# NextJS - Pemrograman API UNISBA BLITAR
-
-#### Database & Firebase Config
-
-Firebase: [firebase](https://console.firebase.google.com/u/0)
-=======
-Praktek Filter Data 
+# Latihan 3 Pemrograman API 
 
 Nama: Umi Hanik
 NIM: 22104410021
